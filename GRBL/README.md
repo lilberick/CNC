@@ -15,13 +15,13 @@
 	$ cd grbl-1.1f.20170801
 	```
 
-    a. Si has instalado **Arduino** usando apt
+    1. Si has instalado **Arduino** usando apt
 
         ```sh
         $ sudo cp -r grbl /usr/share/arduino/libraries/
         ```
 
-    b. Si estas usando un AppImage de **Arduino**
+    2. Si estas usando un AppImage de **Arduino**
 
         ```sh
         $ cp -r grbl ~/Arduino/libraries
